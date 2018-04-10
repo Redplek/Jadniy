@@ -8,3 +8,13 @@ C:\Users\Андрей\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\W
 C:\Users\Андрей\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\Андрей\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Андрей\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Андрей\Documents\GitHub\Jadniy\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Андрей\Documents\GitHub\Jadniy\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Андрей\Documents\GitHub\Jadniy\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Андрей\Documents\GitHub\Jadniy\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\GitHub\Jadniy\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Андрей\Documents\GitHub\Jadniy\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Андрей\Documents\GitHub\Jadniy\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Андрей\Documents\GitHub\Jadniy\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Documents\GitHub\Jadniy\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Андрей\Documents\GitHub\Jadniy\obj\Debug\WindowsFormsApp1.pdb

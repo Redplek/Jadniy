@@ -147,23 +147,23 @@ namespace WindowsFormsApp1
                 /*обработка и вывод результатов*/
                 int q = 1;
                 results.RemoveAt(results.Count - 1);                
-                dataGridView2.RowCount = 1000;
-                dataGridView2.ColumnCount = 500;
+                //dataGridView2.RowCount = 1000;
+                //dataGridView2.ColumnCount = 500;
                 int sum = 0;
                 foreach (int el in ostatok)
                 {
                     sum = sum + el;
                 }               
-                dataGridView2.Rows[0].Cells[p].Value = 1;
-                foreach (int el in results)
+                //dataGridView2.Rows[0].Cells[p].Value = 1;
+               /* foreach (int el in results)
                 {
                     dataGridView2.Rows[q].Cells[p].Value = el;                    
                     q = q + 1;
-                }
+                }*/
                 results.Add(l-1);/*количество деталей*/
                 results.Add(sum);/*сумма остатков*/
-                dataGridView2.Rows[q + 1].Cells[p].Value = "кол.д" + Convert.ToString(l - 1);
-                dataGridView2.Rows[q + 2].Cells[p].Value = "остаток" + Convert.ToString(sum);
+               // dataGridView2.Rows[q + 1].Cells[p].Value = "кол.д" + Convert.ToString(l - 1);
+               // dataGridView2.Rows[q + 2].Cells[p].Value = "остаток" + Convert.ToString(sum);
                 //Debugger.Break();                
                 mas[p] = results.GetRange(0, results.Count);                
                 //Debugger.Break();
